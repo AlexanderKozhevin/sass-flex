@@ -1,0 +1,15 @@
+{
+  "name": "sass-flex",
+  "version": "0.0.1",
+  "homepage": "https://github.com/AlexanderKozhevin/sass-flex",
+  "authors": [
+    "alexanderkozhevin <turboasm21@gmail.com>"
+  ],
+  "description": "simple flexbox markup",
+  "main": "_sass_flexbox.scss",
+  "keywords": [
+    "scss",
+    "flexbox"
+  ],
+  "license": "MIT"
+}

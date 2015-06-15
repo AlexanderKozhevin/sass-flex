@@ -1,3 +1,15 @@
+.flex{
+
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  display: -webkit-flex;
+  flex: 1;
+  -webkit-flex: 1;
+
+
+}
+
 .flex-row{
   display: -moz-box;
   display: -ms-flexbox;
